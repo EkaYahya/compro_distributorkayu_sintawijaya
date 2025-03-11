@@ -106,23 +106,6 @@ Password: admin123
 ~ contacts
 ~ settings
 
-## 🤝 Kontribusi
-Kontribusi selalu welcome! Untuk berkontribusi:
-```bash
-1. Fork repository
-2. Buat branch baru (git checkout -b feature/AmazingFeature)
-3. Commit perubahan (git commit -m 'Add some AmazingFeature')
-4. Push ke branch (git push origin feature/AmazingFeature)
-5. Buat Pull Request
-```
-
-## 📝 Lisensi
-Distributed under the MIT License. See LICENSE for more information.
-
-## 📫 Kontak
-Project Link: https://github.com/ndrzy30/laravel-company-website
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ndrzyy_99)
-
 
 
 
